@@ -14,4 +14,4 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-- (12/2018) Create my homepage! Welcome!
+- (12/18) Create my homepage! Welcome!
