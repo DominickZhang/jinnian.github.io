@@ -11,7 +11,7 @@ redirect_from:
 
 Here is my [CV](cv.pdf).
 
-<!-- Education
+Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -29,7 +29,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
