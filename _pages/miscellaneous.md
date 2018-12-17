@@ -17,5 +17,5 @@ author_profile: true
 
 ## Seminars
 - [SILO](http://silo.ece.wisc.edu/web/content/seminars)
-- [Ml4MI](https://www.radiology.wisc.edu/research/medical-imaging-machine-learning-initiative/)
+- [ML4MI](https://www.radiology.wisc.edu/research/medical-imaging-machine-learning-initiative/)
 
