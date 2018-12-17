@@ -11,23 +11,7 @@ redirect_from:
 
 Here is my [CV](cv_jinnian.pdf).
 
-Education
-======
-* B.S. in Beijing University of Posts and Telecommunications, 2014
-* M.S. in Beijing University of Posts and Telecommunications, 2017
-* Ph.D in University of Wisconsin-Madison, 2021 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 <!-- Skills
 ======
