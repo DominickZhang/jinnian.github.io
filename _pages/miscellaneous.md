@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Miscellaneous"
+title: "Some useful links"
 permalink: /miscellaneous/
 author_profile: true
 ---
@@ -14,4 +14,8 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-- (12/18) Create my homepage! Welcome!
+
+## Seminars
+- [SILO](http://silo.ece.wisc.edu/web/content/seminars)
+- [Ml4MI](https://www.radiology.wisc.edu/research/medical-imaging-machine-learning-initiative/)
+

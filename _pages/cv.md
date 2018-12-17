@@ -15,7 +15,7 @@ Education
 ======
 * B.S. in Beijing University of Posts and Telecommunications, 2014
 * M.S. in Beijing University of Posts and Telecommunications, 2017
-* Ph.D in University of Wisconsin - Madison, 2021 (expected)
+* Ph.D in University of Wisconsin-Madison, 2021 (expected)
 
 Work experience
 ======
