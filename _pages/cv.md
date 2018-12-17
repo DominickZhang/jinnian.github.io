@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my [CV](cv_jinnian.pdf).
+Here is my [CV](cv-jinnian.pdf).
 
 
   
