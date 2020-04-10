@@ -85,7 +85,7 @@ author:
   bio              : "PhD student in ECE at University of Wisconsin, Madison"
   location         : "Madison, Wisconsin"
   employer         :
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=tbd4Tf4AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            : "573703300/home?wvr=5&lf=reg"
+  weibo            :
   xing             :
   youtube          :
   wikipedia        :
