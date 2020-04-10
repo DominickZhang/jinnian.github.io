@@ -15,7 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+## Computing Resources
+
+- [CHTC](http://chtc.cs.wisc.edu/): provided to all UW-Madison researchers
+- [OSG Connect](https://www.osgconnect.net/): Free computing power for US researchers
+
 ## Seminars
+
 - [SILO](http://silo.ece.wisc.edu/web/content/seminars)
 - [ML4MI](https://www.radiology.wisc.edu/research/medical-imaging-machine-learning-initiative/)
 
