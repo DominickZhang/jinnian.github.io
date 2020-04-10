@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Recent News"
+title: "Timeline"
 permalink: /news/
 author_profile: true
 ---
