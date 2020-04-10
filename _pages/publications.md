@@ -16,6 +16,8 @@ author_profile: true
 {% endfor %} -->
 
 
+- Z. Liu\*, J. Zhang\*, V. Jog, P. Loh, A. McMillan. Robustifying deep networks for image segmentation. Arxiv 2019.
+- B. Guan\*, J. Zhang\*, W. Sethares, R. Kijowski, F. Liu. SpecNet: Spectral Domain Convolutional Neural Network. Arxiv 2019.
 - J. Zhang, Z. He, P. Chen, and Y. Rong. A compressive sensing based iterative algorithm for channel and impulsive noise estimation in underwater acoustic OFDM systems. IEEE OCEANS, 2017.
 - J. Zhang, K. Niu and Z. He. Multi-layer distributed Bayesian compressive sensing based blind carrier-frequency offset estimation in uplink OFDMA systems. IEEE International Conference on Communications (ICC), 2016.
 - Z. He, J. Zhang, W. Liu and Y. Rong. New Results on Transceiver Design for Two-Hop Amplify-and-Forward MIMO Relay Systems With Direct Link. IEEE Transactions on Signal Processing (TSP), 2016.
