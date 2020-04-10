@@ -21,5 +21,6 @@ author_profile: true
 - (08/19) Made both oral and poster presentation [KDD 2019](https://www.kdd.org/kdd2019/) held in Anchorage, Alaska USA with Student Travel Award
 - (07/19) We won the 3rd prize in [KDDCup2019](https://www.4paradigm.com/competition/kddcup2019) (AutoML track)! It is an honor to our whole team! Here is our [solution](https://github.com/DominickZhang/KDDCup2019_admin)
 - (05/19) Worked in Alibaba as a research intern. I am honored to be advised by [Shaojian He](https://www.linkedin.com/in/shaojian-he-85ba1627/)!
+- (05/19) Poster presentation in [ISMRM 2019](http://archive.ismrm.org/2019/4821.html)
 - (12/18) Created my homepage! Welcome!
 
